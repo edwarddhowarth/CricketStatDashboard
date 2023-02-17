@@ -1,0 +1,169 @@
+Women's Tests
+Women's ODIs
+Women's T20Is
+Youth Tests
+Youth ODIs
+Youth T20Is
+
+Afghanistan
+Australia
+Bangladesh
+England
+ICC World XI
+India
+Ireland
+New Zealand
+Pakistan
+South Africa
+Sri Lanka
+West Indies
+Zimbabwe
+
+Afghanistan
+Australia
+Bangladesh
+England
+ICC World XI
+India
+Ireland
+New Zealand
+Pakistan
+South Africa
+Sri Lanka
+West Indies
+Zimbabwe
+
+Australia
+Bangladesh
+England
+India
+Ireland
+New Zealand
+Pakistan
+South Africa
+Sri Lanka
+United Arab Emirates
+West Indies
+Zimbabwe
+
+AUS: Adelaide Oval
+AUS: Bellerive Oval, Hobart
+AUS: Brisbane Cricket Ground, Woolloongabba, Brisbane
+AUS: Cazaly's Stadium, Cairns
+AUS: Exhibition Ground, Brisbane
+AUS: Manuka Oval, Canberra
+AUS: Melbourne Cricket Ground
+AUS: Perth Stadium
+AUS: Sydney Cricket Ground
+AUS: TIO Stadium, Darwin
+AUS: W.A.C.A. Ground, Perth
+BAN: Bangabandhu National Stadium, Dhaka
+BAN: Khan Shaheb Osman Ali Stadium, Fatullah
+BAN: MA Aziz Stadium, Chattogram
+BAN: Shaheed Chandu Stadium, Bogra
+BAN: Sheikh Abu Naser Stadium, Khulna
+BAN: Shere Bangla National Stadium, Mirpur, Dhaka
+BAN: Sylhet International Cricket Stadium
+BAN: Zahur Ahmed Chowdhury Stadium, Chattogram
+ENG: Bramall Lane, Sheffield
+ENG: Edgbaston, Birmingham
+ENG: Headingley, Leeds
+ENG: Kennington Oval, London
+ENG: Lord's, London
+ENG: Old Trafford, Manchester
+ENG: Riverside Ground, Chester-le-Street
+ENG: Sophia Gardens, Cardiff
+ENG: The Rose Bowl, Southampton
+ENG: Trent Bridge, Nottingham
+IND: Arun Jaitley Stadium, Delhi
+IND: Barabati Stadium, Cuttack
+IND: Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow
+IND: Brabourne Stadium, Mumbai
+IND: Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam
+IND: Eden Gardens, Kolkata
+IND: Gandhi Stadium, Jalandhar
+IND: Green Park, Kanpur
+IND: Gymkhana Ground, Mumbai
+IND: Himachal Pradesh Cricket Association Stadium, Dharamsala
+IND: Holkar Cricket Stadium, Indore
+IND: JSCA International Stadium Complex, Ranchi
+IND: K.D.Singh 'Babu' Stadium, Lucknow
+IND: Lal Bahadur Shastri Stadium, Hyderabad
+IND: M.Chinnaswamy Stadium, Bengaluru
+IND: MA Chidambaram Stadium, Chepauk, Chennai
+IND: Maharashtra Cricket Association Stadium, Pune
+IND: Narendra Modi Stadium, Motera, Ahmedabad
+IND: Nehru Stadium, Madras
+IND: Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh
+IND: Rajiv Gandhi International Cricket Stadium, Dehradun
+IND: Rajiv Gandhi International Stadium, Uppal, Hyderabad
+IND: Saurashtra Cricket Association Stadium, Rajkot
+IND: Sawai Mansingh Stadium, Jaipur
+IND: Sector 16 Stadium, Chandigarh
+IND: University Ground, Lucknow
+IND: Vidarbha C.A. Ground, Nagpur
+IND: Vidarbha Cricket Association Stadium, Jamtha, Nagpur
+IND: Wankhede Stadium, Mumbai
+IRE: The Village, Malahide, Dublin
+NZ: AMI Stadium, Christchurch
+NZ: Basin Reserve, Wellington
+NZ: Bay Oval, Mount Maunganui
+NZ: Carisbrook, Dunedin
+NZ: Eden Park, Auckland
+NZ: Hagley Oval, Christchurch
+NZ: McLean Park, Napier
+NZ: Seddon Park, Hamilton
+NZ: University Oval, Dunedin
+PAK: Arbab Niaz Stadium, Peshawar
+PAK: Bagh-e-Jinnah, Lahore
+PAK: Bahawal Stadium, Bahawalpur
+PAK: Gaddafi Stadium, Lahore
+PAK: Ibn-e-Qasim Bagh Stadium, Multan
+PAK: Iqbal Stadium, Faisalabad
+PAK: Jinnah Stadium, Gujranwala
+PAK: Jinnah Stadium, Sialkot
+PAK: Multan Cricket Stadium
+PAK: National Stadium, Karachi
+PAK: Niaz Stadium, Hyderabad
+PAK: Peshawar Club Ground
+PAK: Pindi Club Ground, Rawalpindi
+PAK: Rawalpindi Cricket Stadium
+PAK: Sheikhupura Stadium
+PAK: Southend Club Cricket Stadium, Karachi
+SA: Buffalo Park, East London
+SA: Ellis Park, Johannesburg
+SA: Kingsmead, Durban
+SA: Lord's, Durban
+SA: Mangaung Oval, Bloemfontein
+SA: Newlands, Cape Town
+SA: Old Wanderers, Johannesburg
+SA: Senwes Park, Potchefstroom
+SA: St George's Park, Gqeberha
+SA: SuperSport Park, Centurion
+SA: The Wanderers Stadium, Johannesburg
+SL: Asgiriya Stadium, Kandy
+SL: Colombo Cricket Club Ground
+SL: Galle International Stadium
+SL: P Sara Oval, Colombo
+SL: Pallekele International Cricket Stadium
+SL: R.Premadasa Stadium, Khettarama, Colombo
+SL: Sinhalese Sports Club Ground, Colombo
+SL: Tyronne Fernando Stadium, Moratuwa
+UAE: Dubai International Cricket Stadium
+UAE: Sharjah Cricket Stadium
+UAE: Sheikh Zayed Stadium, Abu Dhabi
+WI: Antigua Recreation Ground, St John's, Antigua
+WI: Arnos Vale Ground, Kingstown, St Vincent
+WI: Bourda, Georgetown, Guyana
+WI: Daren Sammy National Cricket Stadium, Gros Islet, St Lucia
+WI: Kensington Oval, Bridgetown, Barbados
+WI: National Cricket Stadium, St George's, Grenada
+WI: Providence Stadium, Guyana
+WI: Queen's Park Oval, Port of Spain, Trinidad
+WI: Sabina Park, Kingston, Jamaica
+WI: Sir Vivian Richards Stadium, North Sound, Antigua
+WI: Warner Park, Basseterre, St Kitts
+WI: Windsor Park, Roseau, Dominica
+ZIM: Bulawayo Athletic Club
+ZIM: Harare Sports Club
+ZIM: Queens Sports Club, Bulawayo
